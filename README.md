@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ishwerdutt
 - 👀 I’m interested in web developmet and data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python.
 
 -
 
