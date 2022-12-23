@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishwerdutt
-- 👀 I’m interested in web developmet and data science
+- 👀 I’m interested in data science and ml
 - 🌱 I’m currently learning python.
 
 -
