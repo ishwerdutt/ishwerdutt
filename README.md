@@ -64,7 +64,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishwerduttE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishwerdutt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwerdutt&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -76,56 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwerdutt&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Project Name 1</h3>
-      <div align="center">  
-        <a href="PROJECT_LINK" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/58A6FF?text=ML+Project+1" alt="Project 1"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="PROJECT_REPO" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="PROJECT_DEMO" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Tech:</strong> Python, TensorFlow, AWS</p>
-        <p>Brief description of your most impressive ML project and its impact on solving real-world problems.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 Deep Learning Project</h3>
-      <div align="center">
-        <a href="PROJECT_LINK" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/FF6B6B?text=DL+Project+2" alt="Project 2"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="PROJECT_REPO" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="PROJECT_DEMO" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Tech:</strong> PyTorch, Docker, GCP</p>
-        <p>Advanced deep learning solution with quantifiable impact and innovative approach to complex problems.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
    
 
 ## 🎯 **Current Focus**
