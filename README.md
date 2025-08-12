@@ -78,100 +78,7 @@
 
 ---
 
-## 🚀 **Featured Projects**
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Project Name 1</h3>
-      <div align="center">  
-        <a href="PROJECT_LINK" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/00D9FF?text=🤖+ML+Project+1" alt="Project 1"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="PROJECT_REPO" target="_blank">
-            <img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&borderColor=21262D"/>
-          </a>  
-          <a href="PROJECT_DEMO" target="_blank">
-            <img src="https://img.shields.io/badge/Live-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41&borderColor=21262D"/>
-          </a>
-        </p>
-        <p><strong>Tech:</strong> Python, TensorFlow, AWS</p>
-        <p>Brief description of your most impressive ML project and its impact on solving real-world problems.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 Deep Learning Project</h3>
-      <div align="center">
-        <a href="PROJECT_LINK" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/FF6B35?text=🧠+DL+Project+2" alt="Project 2"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="PROJECT_REPO" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="PROJECT_DEMO" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Tech:</strong> PyTorch, Docker, GCP</p>
-        <p>Advanced deep learning solution with quantifiable impact and innovative approach to complex problems.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📊 Data Science Pipeline</h3>
-      <div align="center">
-        <a href="PROJECT_LINK" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/00FF41?text=📊+Data+Science" alt="Project 3"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="PROJECT_REPO" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="PROJECT_DEMO" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Tech:</strong> Scikit-learn, Flask, PostgreSQL</p>
-        <p>End-to-end data science solution with automated pipelines and real-time analytics dashboard.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎯 Computer Vision App</h3>
-      <div align="center">
-        <a href="PROJECT_LINK" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0D1117/FFD700?text=🎯+Computer+Vision" alt="Project 4"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="PROJECT_REPO" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="PROJECT_DEMO" target="_blank">
-            <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Tech:</strong> OpenCV, YOLO, FastAPI</p>
-        <p>Real-time computer vision application with state-of-the-art object detection and tracking capabilities.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 🎯 **Current Focus**
 
@@ -224,7 +131,7 @@ mindmap
   
   ### 💡 "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions!"
   
-  ![Visitor Count](https://profile-counter.glitch.me/ishwerdutt/count.svg?style=flat-square&color=00D9FF)
+
 
 </div>
 
